@@ -1,0 +1,12 @@
+//Belajar Git dengan melakukan push pada github
+//Menampilkan Biodata Pribadi
+//Perintah yang ke dua
+
+Nama            : Sri Rezeki Candra Nursari
+NIDN            : 0322076603
+Alamat          : Depok
+Tempat Lahir    : Surabaya
+Hobby           : Baca
+email di github : reezeki2011
+email connect   : rezeki66@yahoo.com
+
